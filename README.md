@@ -38,15 +38,15 @@ you are part of the action with Spatial Audio.
 
 Spatial experiences on Apple Vision Pro are only possible through groundbreaking Apple technology. It displays the size of a postage stamp that deliver more pixels than a 4K TV to each eye. It has good spatial audio. A revolutionary dual‑chip design featuring custom Apple silicon. The device a sophisticated array of cameras and sensors. The USPs of Apple Vision Pro is given below:
 
-1. The **custom micro‑OLED display system features 23 million pixels**, delivering stunning  
-   resolution and colors. And a specially designed three‑element lens creates the feeling of  
-   a display that’s everywhere you look
-2. Dual-driver audio pods positioned next to each ear deliver personalized sound while  
-   letting you hear what’s around you
-3. **Vision Pro analyzes your room’s acoustic properties** including the physical materials to  
-   adapt and match sound to your space
-4. A high-performance eye tracking system of LEDs and infrared cameras projects invisible  
-   light patterns onto each eye
-5. A pair of **high-resolution cameras transmit over one billion pixels per second** to the  
-   displays so you can see the world around you clearly. 
+1. The **custom micro‑OLED display system features 23 million pixels**, delivering stunning resolution and colors. And a specially designed three‑element lens creates the feeling of a display that’s everywhere you look
+2. Dual-driver audio pods positioned next to each ear deliver personalized sound while letting you hear what’s around you
+3. **Vision Pro analyzes your room’s acoustic properties** including the physical materials to adapt and match sound to your space
+4. A high-performance eye tracking system of LEDs and infrared cameras projects invisible light patterns onto each eye
+5. A pair of **high-resolution cameras transmit over one billion pixels per second** to the displays so you can see the world around you clearly. 
 6. A unique dual‑chip design enables the spatial experiences on Vision Pro
+
+![image](https://github.com/Anangsha123/Anangsha123/assets/140879250/795d4d3b-34e7-40b7-9fd5-8f10b4fab32d)
+
+##### Apple Vision Pro: Know the Privacy Policy
+
+Like every Apple product and service, **Apple Vision Pro has been designed to help protect the privacy of individual** and keep the control of their data. It builds on the foundation of existing Apple privacy and security features with new technologies like Optic ID, a secure authentication system that uses the uniqueness of your iris.
