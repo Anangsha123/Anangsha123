@@ -3,7 +3,7 @@ _Apple Vision Pro which is set to be launched by Apple in early 2024 by Apple is
 
 Apple Vision Pro is a virtual reality headset that seamlessly blends digital content with your physical space. This device has been in development for more than a decade and marks Apple’s first entrance into a new product category. The launch of Apple Vision Pro is set for early 2024. **Apple calls Apple Vision Pro a spatial computer**. The device can be navigated simple using hands, eyes and voice. Apple Vision Pro transform how one work, learn, play and connect with the world around them. Through Apple Vision Pro one can visualise things that would otherwise have been impossible or impractical. Read this article below for more details on Apple Vision Pro.
 
-## Apple Vision Pro: Know About the Design
+# Apple Vision Pro: Know About the Design
 
 To get virtual reality experience through Apple Vision Pro, Apple shuts those cameras and make  it seem like one is completely isolated from what’s going on around the world, allowing one to  
 focus solely on what is displayed on the headset screens. This shift between the real and immersive is controlled by on-device digital crown.  **_Apple Vision Pro is not unlike a pair of ski goggles_**, featuring a singular piece of laminated glass for the front that melds into an aluminum alloy frame. A soft, fitted Light Seal attaches  magnetically to the frame and conforms to the face to block out light.
