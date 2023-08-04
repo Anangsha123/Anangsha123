@@ -34,7 +34,7 @@ you are part of the action with Spatial Audio.
 
 ![image](https://github.com/Anangsha123/Anangsha123/assets/140879250/976a64c7-d049-4c38-9bd3-8872588a3583)
 
-### Apple Vision Pro: USP
+#### Apple Vision Pro: USP
 
 Spatial experiences on Apple Vision Pro are only possible through groundbreaking Apple technology. It displays the size of a postage stamp that deliver more pixels than a 4K TV to each eye. It has good spatial audio. A revolutionary dual‑chip design featuring custom Apple silicon. The device a sophisticated array of cameras and sensors. The USPs of Apple Vision Pro is given below:
 
@@ -47,6 +47,6 @@ Spatial experiences on Apple Vision Pro are only possible through groundbreaking
 
 ![image](https://github.com/Anangsha123/Anangsha123/assets/140879250/795d4d3b-34e7-40b7-9fd5-8f10b4fab32d)
 
-### Apple Vision Pro: Know the Privacy Policy
+##### Apple Vision Pro: Know the Privacy Policy
 
 Like every Apple product and service, **Apple Vision Pro has been designed to help protect the privacy of individual** and keep the control of their data. It builds on the foundation of existing Apple privacy and security features with new technologies like Optic ID, a secure authentication system that uses the uniqueness of your iris.
