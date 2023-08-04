@@ -3,7 +3,7 @@ _Apple Vision Pro which is set to be launched by Apple in early 2024 by Apple is
 
 Apple Vision Pro is a virtual reality headset that seamlessly blends digital content with your physical space. This device has been in development for more than a decade and marks Apple’s first entrance into a new product category. The launch of Apple Vision Pro is set for early 2024. **Apple calls Apple Vision Pro a spatial computer**. The device can be navigated simple using hands, eyes and voice. Apple Vision Pro transform how one work, learn, play and connect with the world around them. Through Apple Vision Pro one can visualise things that would otherwise have been impossible or impractical. Read this article below for more details on Apple Vision Pro.
 
-# Apple Vision Pro: Know About the Design
+## Apple Vision Pro: Know About the Design
 
 To get virtual reality experience through Apple Vision Pro, Apple shuts those cameras and make  it seem like one is completely isolated from what’s going on around the world, allowing one to  
 focus solely on what is displayed on the headset screens. This shift between the real and immersive is controlled by on-device digital crown.  **_Apple Vision Pro is not unlike a pair of ski goggles_**, featuring a singular piece of laminated glass for the front that melds into an aluminum alloy frame. A soft, fitted Light Seal attaches  magnetically to the frame and conforms to the face to block out light.
@@ -18,7 +18,7 @@ Apple Vision Pro does not have a battery instead it can be charged by a braided 
 
 ![image](https://github.com/Anangsha123/Anangsha123/assets/140879250/e08328b0-67c4-4299-ac80-eed3f74b54ec)
 
-### Apple Vision Pro: Know its Features
+## Apple Vision Pro: Know its Features
 
 Given below are the features of Apple Vision Pro:
 
@@ -34,7 +34,7 @@ you are part of the action with Spatial Audio.
 
 ![image](https://github.com/Anangsha123/Anangsha123/assets/140879250/976a64c7-d049-4c38-9bd3-8872588a3583)
 
-#### Apple Vision Pro: USP
+## Apple Vision Pro: USP
 
 Spatial experiences on Apple Vision Pro are only possible through groundbreaking Apple technology. It displays the size of a postage stamp that deliver more pixels than a 4K TV to each eye. It has good spatial audio. A revolutionary dual‑chip design featuring custom Apple silicon. The device a sophisticated array of cameras and sensors. The USPs of Apple Vision Pro is given below:
 
@@ -47,6 +47,6 @@ Spatial experiences on Apple Vision Pro are only possible through groundbreaking
 
 ![image](https://github.com/Anangsha123/Anangsha123/assets/140879250/795d4d3b-34e7-40b7-9fd5-8f10b4fab32d)
 
-##### Apple Vision Pro: Know the Privacy Policy
+## Apple Vision Pro: Know the Privacy Policy
 
 Like every Apple product and service, **Apple Vision Pro has been designed to help protect the privacy of individual** and keep the control of their data. It builds on the foundation of existing Apple privacy and security features with new technologies like Optic ID, a secure authentication system that uses the uniqueness of your iris.
